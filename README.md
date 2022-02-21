@@ -27,14 +27,6 @@
 </br>
 
 
->## Demo Hosted on Vercel
-
-- [SpaceCodersBlog](https://movie-sagas-api.herokuapp.com/movies)
-
-</br>
-</br>
-
-
 > ## Demo Video
 
 <img src="https://github.com/giselle-ferreira/spacecoders-blog-nodejs/blob/main/public/gif/spacecodersblog.gif" />
