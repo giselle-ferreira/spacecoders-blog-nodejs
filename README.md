@@ -1,4 +1,5 @@
 
+<img align="center" src="https://github.com/giselle-ferreira/spacecoders-blog-nodejs/blob/main/public/img/bannerspacecat.jpg" />
 <h1 align="center">SpaceCodersBlog - NodeJs</h1>
 
 </br>
