@@ -1,0 +1,58 @@
+html{
+    overflow-x: hidden;
+}
+
+.banner-img {
+    width: 100vw;
+    /* height: 180px; */
+    /* object-fit: cover; */
+    filter: brightness(.85);
+}
+
+section h2 span {
+    font-size: 1.6rem;
+}
+
+.content-box {
+    min-height: 150px;
+    
+}
+
+.subtitle {
+    font-size: 1.1rem;
+}
+
+.space-cat {
+    width: 8rem;
+    animation: floating 3s ease-in-out infinite;
+}
+
+@keyframes floating {
+    0% {
+        transform: translate(0, 0px);
+    }
+
+    50% {
+        transform: translate(0, 14px);
+    }
+
+    100% {
+        transform: translate(0, -0px);
+    }
+}
+
+.icon-title {   
+    font-size: 1.3rem;
+    color: rgb(252, 226, 32);
+}
+
+.aboutText {
+    line-height: 1.65rem;
+}
+
+.bi-github,
+.bi-linkedin {
+    font-size: 2.2rem;
+}
+
+

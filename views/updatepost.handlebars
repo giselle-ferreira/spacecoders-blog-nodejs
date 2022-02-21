@@ -1,0 +1,27 @@
+<section class="container col-md-6">
+    <form action="/update" method="POST" class="form">
+    <input type="hidden" name="id" value="{{ post.id }}" class="form">
+        <h2 class="text-center mt-3 ">Editar Post</h2>
+        <div class="mb-3 form-post">
+            <label for="title" class="form-label">Título</label>
+            <input type="text" class="form-control bg-dark text-light" name="title" value="{{ post.title }}">
+        </div>
+        <div class="mb-3">
+            <label for="content" class="form-label">Texto</label>
+            <textarea class="form-control bg-dark text-light" name="content" rows="3">{{ post.content }}</textarea>
+        </div>
+        <div class="mb-3 form-post">
+            <label for="author" class="form-label">Colaborador</label>
+            <input type="text" class="form-control bg-dark text-light" name="author" value="{{ post.author }}">
+        </div>
+         <div class="mb-3 form-post">
+            <label for="date" class="form-label">Data</label>
+            <input type="date" class="form-control bg-dark text-light" name="date" value="{{post.date}}">
+        </div>
+        <div class=" d-flex justify-content-center">
+            <input class="btn btn-sm btn-success col-md-2 mb-4" type="submit" value="ATUALIZAR">
+        </div>
+    </form>
+</section>
+
+
