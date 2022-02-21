@@ -6,7 +6,7 @@
 
 
 > ## About
-> Project of a blog with study purposes developed with Node.JS, Express, Handlebars, Bootstrap and MySQL, to create a CRUD (Create, Read, Update, Delete) system.
+> Project of a blog with study purposes developed with Node.JS, Express, Handlebars, Bootstrap, Sequelize and MySQL, to create a CRUD (Create, Read, Update, Delete) system.
 
 </br>
 </br>
@@ -27,7 +27,7 @@
 </br>
 
 
-> ## Demo Video
+> ## Demonstration Video
 
 <img src="https://github.com/giselle-ferreira/spacecoders-blog-nodejs/blob/main/public/gif/spacecodersblog.gif" />
 
