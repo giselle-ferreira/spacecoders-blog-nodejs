@@ -36,6 +36,6 @@
 
 > ## Author 👋
 
-- <a href="https://www.linkedin.com/in/giselleferreiras/" >Linkedin</a>
+Made with ❤️ by <a href="https://www.linkedin.com/in/giselleferreiras/" >Giselle Ferreira.</a>
 
 
